@@ -106,12 +106,4 @@ A personal finance management application.
 **Thanks for visiting my universe. ✦**
 
 </div>
-<div align="center">
-  <img
-    src="<img width="3072" height="1536" alt="galaxy-background" src="https://github.com/user-attachments/assets/ba4c4ff2-788c-4eb9-909a-60e4bb439d35" />
-"
-    width="100%"
-    alt="Milky Way Galaxy"
-  />
-</div>
 
