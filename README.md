@@ -51,8 +51,8 @@
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/varshamahesh07
-- LinkedIn: linkedin.com/in/varsha-mahesh-08782836b
-- LeetCode: leetcode.com/u/varsha_mahesh/
+- LinkedIn: https://linkedin.com/in/varsha-mahesh-08782836b
+- LeetCode: https://leetcode.com/u/varsha_mahesh/
 
 ---
 
