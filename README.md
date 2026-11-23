@@ -1,11 +1,7 @@
-<img width="3072" height="1536" alt="galaxy-background" src="https://github.com/user-attachments/assets/585b21d1-a659-497a-9ac6-af46518beddf" />
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/varshamahesh07/varshamahesh07/main/assets/galaxy-stars.gif" width="100%" alt="Twinkling Milky Way stars"/>
+# ✦ VARSHA MAHESH ✦
 
-# ✦ VARSHA.EXE
-
-### SOFTWARE DEVELOPER IN THE MAKING
+### Crafting the Frontend. Powering the Backend.
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=9BBDFF&center=true&vCenter=true&width=550&lines=Exploring+the+Universe+of+Code;Building+One+Project+at+a+Time;Java+%7C+Web+Development+%7C+Problem+Solving" alt="Typing introduction"/>
